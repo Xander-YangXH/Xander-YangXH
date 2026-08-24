@@ -1,4 +1,4 @@
-### Hi, I'm Yang Xuanhe 👋
+### Hi, I'm Xander Yang 👋
 
 - 🔭 **26FALL–NOW**: MSc in Artificial Intelligence, Nanyang Technological University, Singapore
 - 🔭 **22FALL–26SUMMER**: B.Eng in Software Engineering (Machine Intelligence Track), Tongji University, Shanghai, China
