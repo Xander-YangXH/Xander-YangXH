@@ -10,7 +10,6 @@
   - Email: yangxuanhe04@gmail.com
   - QQ: 3342675194
   - WeChat: DFS_return_false
-- 📄 [My CV](CV-Xuanhe%20Yang.pdf)
 
 
 
